@@ -1,0 +1,9 @@
+.note-card{
+    border-style: ridge;
+    list-style-type: none;
+    width: 80%;
+    padding-bottom: 2%;
+    margin-top: 2%;
+    padding-top: 2%;
+    margin-left: 10%;
+}
